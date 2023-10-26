@@ -1,0 +1,14 @@
+C:\Users\Oguzhan\source\repos\AttributeInveonOrnek\AttributeInveonOrnek.console\bin\Debug\net7.0\AttributeInveonOrnek.console.exe
+C:\Users\Oguzhan\source\repos\AttributeInveonOrnek\AttributeInveonOrnek.console\bin\Debug\net7.0\AttributeInveonOrnek.console.deps.json
+C:\Users\Oguzhan\source\repos\AttributeInveonOrnek\AttributeInveonOrnek.console\bin\Debug\net7.0\AttributeInveonOrnek.console.runtimeconfig.json
+C:\Users\Oguzhan\source\repos\AttributeInveonOrnek\AttributeInveonOrnek.console\bin\Debug\net7.0\AttributeInveonOrnek.console.dll
+C:\Users\Oguzhan\source\repos\AttributeInveonOrnek\AttributeInveonOrnek.console\bin\Debug\net7.0\AttributeInveonOrnek.console.pdb
+C:\Users\Oguzhan\source\repos\AttributeInveonOrnek\AttributeInveonOrnek.console\obj\Debug\net7.0\AttributeInveonOrnek.console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oguzhan\source\repos\AttributeInveonOrnek\AttributeInveonOrnek.console\obj\Debug\net7.0\AttributeInveonOrnek.console.AssemblyInfoInputs.cache
+C:\Users\Oguzhan\source\repos\AttributeInveonOrnek\AttributeInveonOrnek.console\obj\Debug\net7.0\AttributeInveonOrnek.console.AssemblyInfo.cs
+C:\Users\Oguzhan\source\repos\AttributeInveonOrnek\AttributeInveonOrnek.console\obj\Debug\net7.0\AttributeInveonOrnek.console.csproj.CoreCompileInputs.cache
+C:\Users\Oguzhan\source\repos\AttributeInveonOrnek\AttributeInveonOrnek.console\obj\Debug\net7.0\AttributeInveonOrnek.console.dll
+C:\Users\Oguzhan\source\repos\AttributeInveonOrnek\AttributeInveonOrnek.console\obj\Debug\net7.0\refint\AttributeInveonOrnek.console.dll
+C:\Users\Oguzhan\source\repos\AttributeInveonOrnek\AttributeInveonOrnek.console\obj\Debug\net7.0\AttributeInveonOrnek.console.pdb
+C:\Users\Oguzhan\source\repos\AttributeInveonOrnek\AttributeInveonOrnek.console\obj\Debug\net7.0\AttributeInveonOrnek.console.genruntimeconfig.cache
+C:\Users\Oguzhan\source\repos\AttributeInveonOrnek\AttributeInveonOrnek.console\obj\Debug\net7.0\ref\AttributeInveonOrnek.console.dll
